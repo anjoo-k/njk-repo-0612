@@ -6,4 +6,6 @@ public class NjkCafeDao {
     public void delete() {}
 
     public void test() {}
+    
+    public void select() {} 
 }
