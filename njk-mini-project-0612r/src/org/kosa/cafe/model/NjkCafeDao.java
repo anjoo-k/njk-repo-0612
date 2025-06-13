@@ -7,5 +7,9 @@ public class NjkCafeDao {
 
     public void test() {}
     
+
     public void select() {} 
+
+    public void update() {}
+
 }
